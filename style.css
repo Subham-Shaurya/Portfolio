@@ -454,7 +454,7 @@ section .title::after{
 }
 .teams .carousel .card img{
     height: 150px;
-    width: 200px;
+    width: 150px;
     object-fit: cover;
     border-radius: 50%;
     /* border: 5px solid crimson; */
