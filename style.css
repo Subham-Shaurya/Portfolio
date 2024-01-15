@@ -419,6 +419,9 @@ section .title::after{
 .skills-content .right .java::before{
     width: 50%;
 }
+.skills-content .right .r::before{
+    width: 1%;
+}
 
 /* teams section styling */
 .teams .title::after{
