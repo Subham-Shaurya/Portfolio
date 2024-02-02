@@ -32,24 +32,15 @@
         $('.navbar .menu').toggleClass("active");
         $('.menu-btn i').toggleClass("active");
     });
-
-    // // typing text animation script
-    // var typed = new Typed(".typing", {
-    //     strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
-    //     typeSpeed: 100,
-    //     backSpeed: 60,
-    //     loop: true
-    // });
     var typed = new Typed(".typing", {
-        // strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
-        strings: ["Software Developer","Cloud Engineer"],
+        strings: ["Aspiring Data Analyst", "Front-end Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Software Developer","Cloud Engineer", "UI/UX Designer"],
+        strings: ["Aspiring Data Analyst", "Front-end Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
