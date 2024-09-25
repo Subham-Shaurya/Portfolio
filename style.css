@@ -420,7 +420,7 @@ section .title::after{
     width: 50%;
 }
 .skills-content .right .r::before{
-    width: 30%;
+    width: 60%;
 }
 
 /* teams section styling */
